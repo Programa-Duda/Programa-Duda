@@ -1,23 +1,21 @@
-### 👋 Olá, eu sou a Maria Eduarda!
+<h1> 👋 Olá mundo! Me chamo Maria Eduarda. </h1>
 
-💻 **Desenvolvedora Web em formação**, apaixonada por transformar ideias em experiências digitais funcionais, responsivas e bem construídas.
+<p> 💻 **Desenvolvedora Web em formação**, apaixonada por transformar ideias em experiências digitais funcionais, responsivas e bem construídas.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC Americana** e sou formada em **Desenvolvimento de Sistemas pela ETEC Americana**. Estou construindo minha trajetória na tecnologia através de projetos, estudos e experiências práticas, sempre buscando evoluir como desenvolvedora.
 
 🚀 Meu foco está no desenvolvimento **Front-end e Back-end**, com interesse crescente em **Inteligência Artificial aplicada ao desenvolvimento**.
 
-✨ Gosto de transformar problemas em soluções, explorar novas tecnologias e criar interfaces que sejam não apenas bonitas, mas também claras, úteis e agradáveis de utilizar.
+✨ Gosto de transformar problemas em soluções, explorar novas tecnologias e criar interfaces que sejam não apenas bonitas, mas também claras, úteis e agradáveis de utilizar. </p> 
 
 ### 🛠️ Tecnologias & ferramentas
 
-HTML5
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=DC4A24)
-CSS3
+![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&color=244ADC)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-Git & GitHub
+![Github](https://img.shields.io/badge/Platform-Github-informational?style=flat&logo=github&color=000000)
+![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=ffffff)
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-Figma
-Inteligência Artificial
 
 <details> 
   <summary><h2> 🌱 Atualmente </h2></summary>
