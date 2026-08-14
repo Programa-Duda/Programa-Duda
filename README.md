@@ -17,7 +17,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC Americana** e
 * Figma
 * Inteligência Artificial
 
-### 🌱 Atualmente
+<details> 
+  <summary>### 🌱 Atualmente</summary>
 
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC Americana
 * 💻 Desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento web
@@ -25,6 +26,8 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC Americana** e
 * 🎨 Aprimorando meus conhecimentos em UI/UX e design de interfaces
 * 🚀 Buscando oportunidades para aprender, colaborar e crescer profissionalmente na área de tecnologia
 
+</details>
+  
 ### 💡 O que me motiva
 
 Acredito que tecnologia vai além de escrever código.
