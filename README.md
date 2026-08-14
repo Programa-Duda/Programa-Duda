@@ -10,15 +10,17 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC Americana** e
 
 ### 🛠️ Tecnologias & ferramentas
 
-* HTML5
-* CSS3
-* JavaScript
-* Git & GitHub
-* Figma
-* Inteligência Artificial
+HTML5
+![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=DC4A24)
+CSS3
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+Git & GitHub
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
+Figma
+Inteligência Artificial
 
 <details> 
-  <summary>### 🌱 Atualmente</summary>
+  <summary><h2> 🌱 Atualmente </h2></summary>
 
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATEC Americana
 * 💻 Desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento web
@@ -27,14 +29,17 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC Americana** e
 * 🚀 Buscando oportunidades para aprender, colaborar e crescer profissionalmente na área de tecnologia
 
 </details>
-  
-### 💡 O que me motiva
 
-Acredito que tecnologia vai além de escrever código.
+<details> 
+  <summary><h2> 💡 O que me motiva </h2></summary>
+    
+    Acredito que tecnologia vai além de escrever código.
+    
+    Gosto de entender **o problema por trás de uma ideia**, pensar em como transformá-la em uma experiência simples e funcional e, então, construir essa solução com atenção     aos detalhes.
+    
+    Cada projeto é uma oportunidade de aprender algo novo, experimentar uma tecnologia diferente e evoluir um pouco mais.
 
-Gosto de entender **o problema por trás de uma ideia**, pensar em como transformá-la em uma experiência simples e funcional e, então, construir essa solução com atenção aos detalhes.
-
-Cada projeto é uma oportunidade de aprender algo novo, experimentar uma tecnologia diferente e evoluir um pouco mais.
+</details>
 
 ### 🌐 Onde me encontrar
 
