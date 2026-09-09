@@ -18,6 +18,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na FATEC Americana** e
 ![Github](https://img.shields.io/badge/Platform-Github-informational?style=flat&logo=github&color=000000)
 ![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=DC4A24)
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
+![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&color=CC2927)
 </details> 
   
 <details> 
